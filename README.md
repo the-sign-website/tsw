@@ -2,4 +2,4 @@
 
 Published site: https://the-sign-website.github.io/tsw/
 
-Deployment retry requested.
+Logo assets restored.
