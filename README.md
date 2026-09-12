@@ -1,2 +1,3 @@
-# tsw
-The-Sing Websites public site
+# The-Sing Websites
+
+Published site: https://the-sign-website.github.io/tsw/
