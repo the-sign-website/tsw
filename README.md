@@ -2,4 +2,4 @@
 
 Published site: https://the-sign-website.github.io/tsw/
 
-Logo assets restored.
+Uploaded logo and hero images are restored.
